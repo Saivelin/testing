@@ -5,7 +5,7 @@ start
 docker-compose up
 ```
 
-### Stack
+# Stack
 
 ## Client
 React, Redux, Tailwind
